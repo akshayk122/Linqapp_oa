@@ -247,12 +247,6 @@ The API will be available at:
 
 - **API Documentation:**  
   The service leverages FastAPI’s auto-generated documentation, available at `/docs` (Swagger UI) and `/redoc` (Redoc).
-  
-- **Integration Tests:**  
-  Sample tests are available in the `tests/` directory. These tests can be run with:
-  ```bash
-  pytest
-  ```
 
 - **Event Bus / Queue:**  
   A decoupled processing approach using an event bus (e.g., with Celery and Redis) can be integrated to manage downstream processing, which makes the application more resilient and scalable under load.
