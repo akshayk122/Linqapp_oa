@@ -13,8 +13,6 @@ A FastAPI-based RESTful service for managing contacts and their associated notes
 - [Key Decisions, Tradeoffs & Assumptions](#key-decisions-tradeoffs--assumptions)
 - [Future Improvements](#future-improvements)
 - [Bonus: Additional Features](#bonus-additional-features)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
