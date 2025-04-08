@@ -1,6 +1,3 @@
-Below is an example of a detailed README.md file for your project. It outlines the steps required to set up, run, and understand the design decisions behind the backend service for a Contact Notes System.
-
----
 
 # Contact Notes API
 
