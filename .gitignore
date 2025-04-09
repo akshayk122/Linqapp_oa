@@ -26,9 +26,7 @@ env/
 ENV/
 .env
 
-# SQLite database
-*.db
-*.sqlite3
+
 
 # IDE
 .idea/
